@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZN4uCaPljIVvKNiDYDuH9by9fTQ2EJ2AwqwZMlH1OFo=",
+  "Source": "Web.Server",
+  "BasePath": "_content/Web.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
