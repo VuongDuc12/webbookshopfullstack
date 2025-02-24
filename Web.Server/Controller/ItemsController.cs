@@ -18,7 +18,7 @@ public class ItemsController : ControllerBase
     [HttpGet]
     public async Task<ActionResult<IEnumerable<Item>>> GetItems()
     {
-        return await _context.Items.ToListAsync();
+        return await _context.Items.ToListAsync;
     }
 
     [HttpGet("{id}")]
